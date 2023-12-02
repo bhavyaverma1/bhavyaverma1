@@ -1,5 +1,7 @@
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhavyaverma1&include_all_commits=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/bhavyaverma1/github-readme-stats) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhavyaverma1&theme=gruvbox&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaverma1&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bhavyaverma1&show_icons=true&include_all_commits=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaverma1&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bhavyaverma1&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
